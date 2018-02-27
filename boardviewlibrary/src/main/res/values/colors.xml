@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="animation_default_duration">300</integer>
+    <integer name="movingStoneAlphaTransperency">150</integer>
+    <integer name="crossCursorStrokeWidth">3</integer>
+    <color name="textColor">@android:color/white</color>
+    <color name="shadowColor">@android:color/black</color>
+    <color name="boardColor">@android:color/white</color>
+    <color name="boardLineColor">#654525</color>
+    <color name="blackStoneColor">@android:color/black</color>
+    <color name="blackStoneHighlightColor">#BCBCBC</color>
+    <color name="whiteStoneColor">#E8E8E8</color>
+    <color name="whiteStoneHighlightColor">#7F7F7F</color>
+    <color name="crossCursorColor">#48D1CC</color>
+    <color name="redoTextColor">#3366cc</color>
+    <color name="stoneMarkesColor">#ff0000</color>
+    <color name="circle_border">#D9D9D9</color>
+</resources>
